@@ -6,7 +6,7 @@
 
 ## 安装
 
-下载 `m5adv-cardputer.zip`，解压到 WorkBuddy 的 skills 目录：
+下载 `m5adv-cardputer.zip`，直接上传到各种Agent的技能中即可：
 
 ```
 ~/.workbuddy/skills/m5adv-cardputer/
